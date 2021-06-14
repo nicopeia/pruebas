@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0; 
+ }
+ body{
+     font-family: 'Inter', sans-serif;
+ }
+ 
+ .container-box{
+    max-height: 200%;
+    height: 150%;
+    background-color: rgb(37, 36, 37);
+ 
+ }
+
+ label{
+     text-align: center;
+     align-self: center;
+     align-content: center;
+     margin-top: 60px;
+     padding-top: 60px;
+     margin-left: 30px;
+     justify-content: space-between;
+     color: blanchedalmond;
+     text-transform: uppercase;
+     
+ }
+ select{
+     width: 160px;
+ }
+
+ .btn{
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    margin-top: 110px;
+    padding-top: 110px;
+ }
+
